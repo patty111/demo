@@ -1,5 +1,7 @@
 # FHE Voting App
 
+Forked from https://github.com/zkoranges/fhe-voting
+
 ## Overview
 Run voting campaigns that **protect voter choices** using FHE (Fully Homomorphic Encryption) **without the need of a trusted coordinator**.
 
@@ -93,7 +95,6 @@ Please open an issue or submit a pull request if you have suggestions or improve
 Special thanks to: 
 
 - The Fhenix team for their work on fully homomorphic encryption.
-- ZKHack Kraków team for organizing the hackathon!
 
 ## Disclaimer
 This application is for experimental purposes only and should not be used in a production environment. 
